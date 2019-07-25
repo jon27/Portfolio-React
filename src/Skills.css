@@ -1,0 +1,15 @@
+.skills {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+  
+}
+
+.skill {   
+    padding: 10px;
+    width: 100px;
+    margin: 10px;
+    border: 2px solid #ff8e0e;
+    border-radius: 12%;
+    min-width: 75px;
+}

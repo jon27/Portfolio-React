@@ -1,0 +1,30 @@
+.main-page-content {
+    display: flex;
+    color: white;
+    
+    height: 100vh;
+   
+}
+
+.left-col {
+    width: 38%;
+    margin: auto;
+    text-align: center;
+}
+
+.right-col{
+    width: 58%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: orange;
+}
+
