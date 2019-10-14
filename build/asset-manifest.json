@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78428587.chunk.css",
+    "main.js": "/static/js/main.ff77b371.chunk.js",
+    "main.js.map": "/static/js/main.ff77b371.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.bde0f9ef.chunk.js": "/static/js/2.bde0f9ef.chunk.js",
+    "static/js/2.bde0f9ef.chunk.js.map": "/static/js/2.bde0f9ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba761273483d241c0af2755f6882ffe9.js": "/precache-manifest.ba761273483d241c0af2755f6882ffe9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.78428587.chunk.css.map": "/static/css/main.78428587.chunk.css.map",
+    "static/media/AJ-TJ.jpeg": "/static/media/AJ-TJ.fd7693d2.jpeg",
+    "static/media/AJ.jpeg": "/static/media/AJ.1da93195.jpeg",
+    "static/media/AJ2.jpeg": "/static/media/AJ2.466b3532.jpeg",
+    "static/media/Army.jpeg": "/static/media/Army.c460f815.jpeg",
+    "static/media/Baby-Shower.jpeg": "/static/media/Baby-Shower.25e197ab.jpeg",
+    "static/media/Work.css": "/static/media/Omnifood.d783feda.PNG",
+    "static/media/Home.css": "/static/media/Computer.e92831d0.jpg",
+    "static/media/App.css": "/static/media/Table.1aa2a1d1.jpg",
+    "static/media/Wedding.jpeg": "/static/media/Wedding.f8705239.jpeg"
+  }
+}
